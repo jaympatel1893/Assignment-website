@@ -1,0 +1,43 @@
+	html {height:100%; width:100%;}
+	body {height:100%; width:100%;}
+
+
+	#wrapper {background-color:black; height:100%; width:100%;font-color:red;}
+	#abc {background-color:black; height:100%; width:100%;font-color:red; float:left;}
+	#abcd{
+		background-color:black;
+		height:23%; width:15%;
+		font-color:red;
+		text-align:left;
+		font-family:Arial,Helvetica,sans-serif;
+		margin:15;
+		letter-spacing:2px;
+		
+		
+	}
+
+
+
+	#an {background-color:yellow;
+	 height:50%; width:85%; 
+	 float:left; 
+	}
+floater
+	. {float:left; margin:5px;font-color:red;}
+	.hidden {display:none;font-color:red;}
+		.abcde{
+			float:left;
+			margin-right:5px;
+
+		}
+
+	div.menuBar
+	{
+		font-size:20px;
+		font-color:gray;
+		text-align:left; 
+		line-height:140%;
+		text-decoration:none;
+
+	}
+	
